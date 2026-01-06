@@ -1,0 +1,5 @@
+
+Sample Inputs:
+- Face Card
+- Ace
+- Two Cards Same Rank

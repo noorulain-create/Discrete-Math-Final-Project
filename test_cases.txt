@@ -1,0 +1,12 @@
+
+Test Case 1:
+Input: Probability of Ace
+Expected Output: 4/52 = 0.076923
+
+Test Case 2:
+Input: Probability of Face Card
+Expected Output: 12/52 = 0.230769
+
+Test Case 3:
+Input: Two Cards Same Rank
+Expected Output: 13 * C(4,2) / C(52,2)
