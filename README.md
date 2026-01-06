@@ -6,9 +6,12 @@ A C++ console-based project that calculates theoretical and experimental probabi
 of drawing cards from a standard 52-card deck using Discrete Mathematics concepts.
 
 ## Folder Structure
-- src/   -> Source code files
-- test/  -> Test cases
-- data/  -> Sample input data
+- DMproject   -> Source code file
+- Demonstration video  -> demo video
+- Report -> detail report of the system
+- userManual -> user manual fir the user understanding
+- test_cases  -> Test cases
+- sample_data  -> Sample input data
 
 ## Installation
 Compile using any C++11 compatible compiler.
